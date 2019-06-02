@@ -15,6 +15,8 @@ use one of the other methods described below.
 If you have a GitHub account, or are willing to create one, but do not know how to use Git, you can report problems or suggest improvements by creating an issue. This allows us to assign the item to someone and to respond to it in a threaded discussion.
 If you are comfortable with Git, and would like to add or change material, you can submit a pull request (PR). Instructions for doing this are included below.
 
+All protocols are stored in `docs/_posts`. You can make a copy of the [template](docs/_posts/_template.md), save it using the filename convention (`YYYY-MM-DD-tag.md`) and add your content below the template content. Content should be in markdown format.
+
 ## What to contribute
 
 We are very happy to receive any and all contributions regarding the subject matter of this resource in whichever manner you are able to submit them. Many different things can be contributed, you can send us an email about relevant reports, you can submit an issue informing us about an error you found, or you can submit a pull request contributing text on a new method or a procedure. 
