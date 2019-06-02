@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: AMR-workflows
+url: "https://food-safety-bioinformatics-hackathon.github.io/AMR-workflows/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -10,20 +10,20 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: a curated collection of bioinformatics protocols for detecting AMR
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Food Safety Bioinformatics Hackathon Team
+  email: will.rowe@stfc.ac.uk
+  twitter:
 social:
-  name: Base Template
+  name:
   links:
     - https://github.com/CloudCannon/base-jekyll-template
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: GMT
 
 permalink: /:categories/:title/
 

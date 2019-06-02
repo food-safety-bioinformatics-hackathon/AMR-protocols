@@ -1,0 +1,7 @@
+---
+---
+{% assign resources = site.posts | where: "type", "Tools" | sort: "title" %}
+
+<h2>Resources <span class="count">({{ resources | size }})</span></h2>
+
+{% include listings.html listings=resources %}
