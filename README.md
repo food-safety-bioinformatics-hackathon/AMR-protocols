@@ -1,11 +1,12 @@
-# AMR Workflows
+# AMR Protocols
 
-A curated set of bioinformatics workflows for detecting *Antimicrobial Resistance (AMR)* in your species of interest.
+A curated set of bioinformatics protocols for detecting **Antimicrobial Resistance (AMR)** genes in your species of interest.
 
 ***
 
 ## About
 
+The protocols are currently hosted at [https://food-safety-bioinformatics-hackathon.github.io/AMR-protocols/](https://food-safety-bioinformatics-hackathon.github.io/AMR-protocols/).
 
 
 
