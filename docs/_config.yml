@@ -5,7 +5,7 @@ title: AMR-workflows
 url: "https://food-safety-bioinformatics-hackathon.github.io/AMR-workflows/"
 baseurl:
 google_analytics_key:
-disqus_shortname:
+disqus_shortname: amr-protocols
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)

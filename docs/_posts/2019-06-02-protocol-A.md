@@ -6,6 +6,7 @@ categories:
 description: protocol A description
 type: Document
 related_post: protocol B
+comments: true
 ---
 Here is the intro paragraph
 
