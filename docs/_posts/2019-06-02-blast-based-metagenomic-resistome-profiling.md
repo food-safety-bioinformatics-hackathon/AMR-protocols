@@ -2,7 +2,7 @@
 date: 2019-06-02
 title: AMR gene profiling using BLAST
 categories:
-  - environmental-metagenomics
+  - Environmental metagenomics
 description: BLASTing AMR genes against a local db of metagenomic reads
 type: Document
 related_post:
