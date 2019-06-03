@@ -16,15 +16,19 @@ A brief introduction paragraph goes here, covering:
 * rough run time and/or hardware requirements
 
 
-## Summary table
+## Summary
 
 |Key|Value|
 |----|----|
 |category|read-based/assembly-based|
 |platform|illumina/ONT/pacbio|
 |open source|true/false|
-|reproducible|true/false|
+|reproducible<sup>*</sup>|true/false|
+|documented<sup>&</sup>|true/false|
 
+<sup>*</sup> by reproducible, we mean that the software is versioned, has at least one release and is packaged (e.g. with conda)
+
+<sup>&</sup> by documented, we mean that the protocol describes the exact parameters used in each step, and also includes software versions.
 
 ## Database
 
