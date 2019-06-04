@@ -1,6 +1,6 @@
 ---
 date: 2019-06-02
-title: AMR gene profiling using BLAST
+title: Fitzpatrick 2016
 categories:
   - Environmental metagenomics
 description: BLASTing AMR genes against a local db of metagenomic reads
