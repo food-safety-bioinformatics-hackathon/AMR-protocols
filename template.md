@@ -3,32 +3,23 @@ date: 2019-06-02
 title: protocol A
 categories:
   - Salmonella Typhimurium
-description: protocol A description
+description: a short description of this protocol
 type: Document
-related_post: protocol B
+related_post: the title of any related post (e.g. "protocol B")
 comments: true
+doi: 10.1093/femsec/fiv168
 ---
-
-A brief introduction paragraph goes here, covering:
-
-* purpose/use cases/target application
-* when the protocol was first used
-* rough run time and/or hardware requirements
-
 
 ## Summary
 
-|Key|Value|
+|||
 |----|----|
 |category|read-based/assembly-based|
 |platform|illumina/ONT/pacbio|
 |open source|true/false|
-|reproducible<sup>*</sup>|true/false|
-|documented<sup>&</sup>|true/false|
+|reproducible|true/false|
+|documented|true/false|
 
-<sup>*</sup> by reproducible, we mean that the software is versioned, has at least one release and is packaged (e.g. with conda)
-
-<sup>&</sup> by documented, we mean that the protocol describes the exact parameters used in each step, and also includes software versions.
 
 ## Database
 
