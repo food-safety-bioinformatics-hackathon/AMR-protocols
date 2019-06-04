@@ -24,23 +24,9 @@ We are very happy to receive any and all contributions regarding the subject mat
 If you would like to contribute, and don’t know quite where to start or what to do, please check the list of current issues for the repository. 
 
 
-## Using Github
-
-If you choose to contribute via GitHub, you may want to look at How to Contribute to an Open Source Project on GitHub. 
-The current version of this resource is to be found in the master branch. This branch stays static until we decide that we have a new release. All development happens on the **dev-branch**. If you want to contribute, we request that you work on that one.  
-
-How to proceed:
-  * Fork (i.e. copy) the project to your account
-  * Go to your fork, and change the branch of the project to the current development branch 
-  * Then add/modify the contents you want. This can be done directly in your fork on github
-  * Commit the change
-  * Send your pull request
-  * Your pull request will be merged dev-branch after manual checking
-  * The admins will then rebuild the dev-branch
-  * The dev-branch will be merged to master repository with the next release
-
-
 ## Adding your protocol to the site
+
+If you choose to contribute via GitHub, you may want to look at How to Contribute to an Open Source Project on GitHub. The current version of this resource is to be found in the master branch.
 
 To add a protocol, please fork or clone this repository, add your procotol and then submit a pull request. You can add more than one protocol at a time.
 
